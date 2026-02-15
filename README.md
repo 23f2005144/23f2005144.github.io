@@ -4,7 +4,7 @@
 
 
 I am a Data Science student with strong interests in Machine Learning and applied AI systems. I focus on building structured, reproducible workflows that combine statistical reasoning, system design, and practical implementation.
-
+<!--email_off-->23f2005144@ds.study.iitm.ac.in<!--/email_off-->
 ---
 
 ## 🎓 Academic Focus
