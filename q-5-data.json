@@ -27,11 +27,12 @@
     { "id": "prod-41fe8512-021", "name": "Premium Item 21", "category": "clothing", "price": 358.73, "stock": 47, "rating": 3.3 }
   ],
   "aggregations": {
-    "books": { "count": 4, "inventoryValue": 87699.70 },
+    "books": { "count": 4, "inventoryValue": 92215.42 },
     "clothing": { "count": 5, "inventoryValue": 55807.65 },
-    "home": { "count": 4, "inventoryValue": 133787.08 },
+    "home": { "count": 4, "inventoryValue": 135782.92 },
     "electronics": { "count": 3, "inventoryValue": 83031.41 },
-    "sports": { "count": 5, "inventoryValue": 205930.66 }
+    "sports": { "count": 5, "inventoryValue": 237629.92 }
   }
 }
+
 
